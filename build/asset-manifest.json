@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-pixel/static/css/main.c5b60f3b.chunk.css",
-    "main.js": "/react-pixel/static/js/main.dd9c8d65.chunk.js",
-    "main.js.map": "/react-pixel/static/js/main.dd9c8d65.chunk.js.map",
+    "main.css": "/react-pixel/static/css/main.6a67e20b.chunk.css",
+    "main.js": "/react-pixel/static/js/main.8c48c3fb.chunk.js",
+    "main.js.map": "/react-pixel/static/js/main.8c48c3fb.chunk.js.map",
     "runtime-main.js": "/react-pixel/static/js/runtime-main.c82c7be1.js",
     "runtime-main.js.map": "/react-pixel/static/js/runtime-main.c82c7be1.js.map",
-    "static/js/2.8b981496.chunk.js": "/react-pixel/static/js/2.8b981496.chunk.js",
-    "static/js/2.8b981496.chunk.js.map": "/react-pixel/static/js/2.8b981496.chunk.js.map",
+    "static/js/2.7b9f0af0.chunk.js": "/react-pixel/static/js/2.7b9f0af0.chunk.js",
+    "static/js/2.7b9f0af0.chunk.js.map": "/react-pixel/static/js/2.7b9f0af0.chunk.js.map",
     "index.html": "/react-pixel/index.html",
-    "precache-manifest.026a1aa4648a264ac4962b01bc6ad1e8.js": "/react-pixel/precache-manifest.026a1aa4648a264ac4962b01bc6ad1e8.js",
+    "precache-manifest.5af8694c46c79319e6c5bcacdf1c1d2f.js": "/react-pixel/precache-manifest.5af8694c46c79319e6c5bcacdf1c1d2f.js",
     "service-worker.js": "/react-pixel/service-worker.js",
-    "static/css/main.c5b60f3b.chunk.css.map": "/react-pixel/static/css/main.c5b60f3b.chunk.css.map",
-    "static/js/2.8b981496.chunk.js.LICENSE": "/react-pixel/static/js/2.8b981496.chunk.js.LICENSE",
+    "static/css/main.6a67e20b.chunk.css.map": "/react-pixel/static/css/main.6a67e20b.chunk.css.map",
+    "static/js/2.7b9f0af0.chunk.js.LICENSE": "/react-pixel/static/js/2.7b9f0af0.chunk.js.LICENSE",
     "static/media/global.scss": "/react-pixel/static/media/Livvic-SemiBold.fe84dbc6.ttf",
     "static/media/about-circle-left.svg": "/react-pixel/static/media/about-circle-left.e45a3d0d.svg",
     "static/media/about-circle-right.svg": "/react-pixel/static/media/about-circle-right.2fd804c4.svg",
@@ -27,13 +27,12 @@
     "static/media/icon-twitter.svg": "/react-pixel/static/media/icon-twitter.cb4fea0b.svg",
     "static/media/left-circle.svg": "/react-pixel/static/media/left-circle.fe4f785a.svg",
     "static/media/nav-circle.svg": "/react-pixel/static/media/nav-circle.00dc85d0.svg",
-    "static/media/right-circle.svg": "/react-pixel/static/media/right-circle.458c9fcd.svg",
-    "static/media/skills-circle.svg": "/react-pixel/static/media/skills-circle.8fced929.svg"
+    "static/media/right-circle.svg": "/react-pixel/static/media/right-circle.458c9fcd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c82c7be1.js",
-    "static/js/2.8b981496.chunk.js",
-    "static/css/main.c5b60f3b.chunk.css",
-    "static/js/main.dd9c8d65.chunk.js"
+    "static/js/2.7b9f0af0.chunk.js",
+    "static/css/main.6a67e20b.chunk.css",
+    "static/js/main.8c48c3fb.chunk.js"
   ]
 }

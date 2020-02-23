@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a61cc58ca1b769ab15f065f6e06a820",
+    "revision": "21f5c7edb6acd206d36cd119778ac53c",
     "url": "/react-pixel/index.html"
   },
   {
-    "revision": "a5d89493918f764ff44c",
-    "url": "/react-pixel/static/css/main.c5b60f3b.chunk.css"
+    "revision": "2ad9cc51210cfc576428",
+    "url": "/react-pixel/static/css/main.6a67e20b.chunk.css"
   },
   {
-    "revision": "08d5b22243f5de8408e7",
-    "url": "/react-pixel/static/js/2.8b981496.chunk.js"
+    "revision": "a7c10e6551c9df78f112",
+    "url": "/react-pixel/static/js/2.7b9f0af0.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/react-pixel/static/js/2.8b981496.chunk.js.LICENSE"
+    "url": "/react-pixel/static/js/2.7b9f0af0.chunk.js.LICENSE"
   },
   {
-    "revision": "a5d89493918f764ff44c",
-    "url": "/react-pixel/static/js/main.dd9c8d65.chunk.js"
+    "revision": "2ad9cc51210cfc576428",
+    "url": "/react-pixel/static/js/main.8c48c3fb.chunk.js"
   },
   {
     "revision": "885b4ecc335cc1131d1e",
@@ -94,9 +94,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "458c9fcdfef1f53beea9819bd3a2b4e8",
     "url": "/react-pixel/static/media/right-circle.458c9fcd.svg"
-  },
-  {
-    "revision": "8fced9299fa222aa1131f36e3d689453",
-    "url": "/react-pixel/static/media/skills-circle.8fced929.svg"
   }
 ]);
