@@ -34,7 +34,7 @@ export default class Skills extends Component {
                     <h1><span>Build & manage</span> <span>distributed teams</span> <span>like no one else.</span></h1>
                 </div>
                 <SkillList skills={skills}/>
-                <img className="skills-circle" src={require('../../../assets/images/skills/skills-circle.svg')} alt="" />
+                <img className="skills-circle" src={require('../../../assets/images/skills/skills-circle.png')} alt="" />
             </div>
         )
     }
