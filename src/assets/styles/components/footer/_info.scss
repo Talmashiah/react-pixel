@@ -1,0 +1,9 @@
+.info {
+  @include for-mobile-layout {
+    display: block;
+    text-align: center;
+    div:first-child{
+        margin-bottom: 24px;
+    }
+  }
+}

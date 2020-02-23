@@ -1,0 +1,35 @@
+.skill-preview {
+  margin-bottom: 35px;
+  img {
+    width: 65px;
+    height: 65px;
+    margin-right: 25px;
+  }
+
+  .skill-content {
+    h4 {
+      color: #f67e7e;
+      font-family: livvic-bold;
+      font-size: 18px;
+      margin-bottom: 15px;
+    }
+    p {
+      max-width: 445px;
+      opacity: 0.8;
+      font-size: 15px;
+    }
+  }
+  @include for-mobile-layout {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    img {
+      margin: 0 0 15px 0;
+    }
+    .skill-content {
+      p {
+        max-width: 325px;
+      }
+    }
+  }
+}

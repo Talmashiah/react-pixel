@@ -1,0 +1,38 @@
+.call-to-action {
+  height: 200px;
+  background-color: #f67e7e;
+  padding: 0 260px;
+  position: relative;
+  h1 {
+    color: #012f34;
+    font-family: livvic-bold;
+    font-size: 48px;
+    line-height: 48px;
+  }
+  .main-btn {
+    border: 2px solid #012f34;
+    color: #012f34;
+  }
+  img {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  @include for-tablet-layout {
+    padding: 0 100px;
+    z-index: -1;
+    h1 {
+      font-size: 32px;
+      line-height: 32px;
+    }
+    img {
+      bottom: -22px;
+      z-index: -1;
+    }
+  }
+  @include for-mobile-layout {
+    height: 300px;
+    padding: 83px 0px;
+    flex-direction: column;
+  }
+}

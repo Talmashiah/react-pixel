@@ -1,0 +1,20 @@
+.contact {
+    margin-left: 45px;
+    p {
+      opacity: 0.6;
+      font-size: 15px;
+      margin: 0;
+    }
+    @include for-tablet-layout {
+      position: absolute;
+      right: 40px;
+      top: 56px;
+      text-align: end;
+    }
+    @include for-mobile-layout {
+      margin-left: initial;
+      position: initial;
+      text-align: center;
+      margin-bottom: 45px;
+    }
+  }

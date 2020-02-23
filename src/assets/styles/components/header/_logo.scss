@@ -1,0 +1,16 @@
+.main-logo {
+  margin-right: 80px;
+  flex-grow: 1;
+  img {
+    width: 160px;
+  }
+  @include for-mobile-layout {
+    img {
+      width: 138px;
+    }
+  }
+  @include for-mobile-layout {
+    margin-right: initial;
+    margin-bottom: 24px;
+  }
+}

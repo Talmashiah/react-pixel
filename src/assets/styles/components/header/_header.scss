@@ -1,0 +1,16 @@
+header {
+  height: $header-height;
+  background-color: #014e56;
+  padding: 0 165px;
+  .main-nav {
+    flex-grow: 1;
+  }
+  @include for-tablet-layout {
+    padding: 0 40px;
+  }
+  @include for-mobile-layout {
+    height: 150px;
+    padding: 0 24px;
+    position: relative;
+  }
+}

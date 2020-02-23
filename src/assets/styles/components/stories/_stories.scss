@@ -1,0 +1,51 @@
+.stories {
+  height: 745px;
+  background-color: #004047;
+  position: relative;
+  padding-top: 140px;
+  text-align: center;
+
+  h1 {
+    font-family: livvic-bold;
+    font-size: rem(48px);
+    line-height: 48px;
+    margin-bottom: 100px;
+
+    span {
+      display: block;
+      &:last-child {
+        display: inline;
+        color: #79c8c7;
+      }
+    }
+  }
+  .stories-circle {
+    position: absolute;
+
+    &:first-child {
+      top: 0;
+      left: 0;
+    }
+    &:nth-child(2) {
+      bottom: 0;
+      right: 0;
+    }
+  }
+  @include for-tablet-layout {
+    height: 1200px;
+    padding: 115px 0 0;
+    h1 {
+      font-size: rem(32px);
+      line-height: 32px;
+      margin-bottom: 88px;
+    }
+  }
+  @include for-mobile-layout {
+    height: 1450px;
+    padding: 140px 24px 0;
+    h1 {
+      max-width: 350px;
+      margin: 0 auto 90px;
+    }
+  }
+}

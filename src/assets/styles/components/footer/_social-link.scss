@@ -1,0 +1,29 @@
+.social-link {
+  .icons-container {
+    text-align: end;
+    img {
+      margin-left: 15px;
+      cursor: pointer;
+    }
+  }
+  small {
+    opacity: 0.6;
+    font-size: 15px;
+  }
+  @include for-tablet-layout {
+    flex-direction: column-reverse !important;
+    .icons-container {
+      position: absolute;
+      left: 25px;
+      bottom: 55px;
+    }
+  }
+  @include for-mobile-layout {
+    display: block;
+    .icons-container {
+      position: initial;
+      text-align: center;
+      margin-bottom: 15px;
+    }
+  }
+}

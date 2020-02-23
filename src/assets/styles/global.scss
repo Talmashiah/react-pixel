@@ -1,0 +1,42 @@
+// Setup
+@import "setup/variables.scss";
+@import "setup/functions.scss";
+@import "setup/mixins.scss";
+
+// Basics
+@import "basics/base.scss";
+@import "basics/burger.scss";
+@import "basics/helpers.scss";
+@import "basics/buttons.scss";
+@import "basics/layout.scss";
+@import "basics/typography.scss";
+
+// Components
+
+// header
+@import "components/header/header.scss";
+@import "components/header/nav-bar.scss";
+@import "components/header/logo.scss";
+
+// about
+@import "components/About/about.scss";
+
+// skills
+@import "components/skills/skills.scss";
+@import "components/skills/skill-preview.scss";
+
+// stories
+@import "components/stories/stories.scss";
+@import "components/stories/story-list.scss";
+@import "components/stories/story-preview.scss";
+
+// call-to-action
+@import "components/call-to-action/call-to-action.scss";
+
+// footer
+@import "components/footer/footer.scss";
+@import "components/footer/info.scss";
+@import "components/footer/social-link.scss";
+@import "components/footer/contact.scss";
+
+// views 
